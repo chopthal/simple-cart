@@ -120,7 +120,7 @@ const app = document.querySelector<HTMLDivElement>('#app')!
 app.innerHTML = `
   <div class="shell">
     <header class="header">
-      <h1 class="brand">스마트 장바구니</h1>
+      <h1 class="brand">심플 카트</h1>
       <p class="tagline">적고, 채널별로 보고, 체크</p>
     </header>
 
